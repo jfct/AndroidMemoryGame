@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MemoriaAMOV</string>
+    <string name="txtTitle">Placeholder</string>
+    <string name="btNewGame">New Game</string>
+    <string name="btResults">Results</string>
+    <string name="btCredits">Credits</string>
+    <string name="txtMadeBy">Made By</string>
+    <string name="imgLogo">Logo</string>
+    <string name="txt1Player">1 Player</string>
+    <string name="txt2PlayersL">2 Players Local</string>
+    <string name="txt2PlayersN">2 Players Online Server</string>
+    <string name="txtPlayersNClient">2 Players Online Client</string>
+    <string name="txtLevels">Levels: </string>
+    <string name="txtTentativas">Tries: </string>
+    <string name="txtPontuacao">Score:</string>
+    <string name="nivel1">Level - 1</string>
+    <string name="nivel2">Level - 2</string>
+    <string name="nivel3">Level - 3</string>
+
+    <string name="QuerSair">Do you want to Leave?</string>
+    <string name="jogador1">Player 1</string>
+    <string name="jogador2">Player 2</string>
+    <string name="txtVencedor">Winner</string>
+    <string name="txtIntrusos">Intruders:</string>
+    <string name="txtNpares">Number os Pairs:</string>
+    <string name="txtTema">Theme:</string>
+    <string name="txtIntrusos2">txtIntrusos</string>
+    <string name="btnPlay">Play</string>
+
+    <string name="serverdlg_msg">Waiting for Client...</string>
+    <string name="serverdlg_title">Servers</string>
+    <string name ="InsertIP">Insert Ip</string>
+    <string name="client_title">Client</string>
+
+
+    <string-array name="numeroPares">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="temas">
+        <item>Fruit</item>
+        <item>Logos</item>
+    </string-array>
+
+    <string-array name="Intrusos">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
